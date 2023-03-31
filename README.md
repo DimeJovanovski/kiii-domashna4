@@ -1,1 +1,1 @@
-# Ova e README.md fajl
+# Ova e default README.md fajl
